@@ -1,0 +1,26 @@
+body { 
+background-color: #15D6CC;
+color: #1529D6;
+font-family: 'DM Sans';
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Rubik;
+  font-size: 50pt;
+}
+
+header, #hero {
+    text-align:center;
+}
+#hero ,#footer {
+    text-align:center;
+    background-color:grey; 
+    color:white;
+    padding:10px;
+    border:3px solid black;
+    border: radius 20px;
+}
+
+#hero img {
+    width: 300px;
+}
